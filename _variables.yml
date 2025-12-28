@@ -1,0 +1,62 @@
+author: Mine Doğucu
+institute: University of California Irvine
+department: Department of Statistics
+
+course:
+  code: STATS 67
+  short-title: Stats 4 CS
+  long-title: Introduction to Probability and Statistics for Computer Science
+  term: Winter
+  year: 2026
+  site: "https://www.stats4cs.com/"
+  github-org: "https://github.com/mdogucu?tab=repositories&q=stats67-wi26&type=&language=&sort="
+  discussion: "https://edstem.org/us/courses/90158"
+  lms: "https://canvas.eee.uci.edu/courses/79796/gradebook"
+  gradescope: "https://www.gradescope.com/courses/1205064"
+  classchat: "https://classchat.zotgpt.uci.edu/home/class/fNuzV1dClKfqJRCcKv1SczhSr0KHiV0C5gW0"
+
+instructor:
+  name: Dr. Mine Dogucu
+  email: mdogucu@uci.edu
+  website: https://www.minedogucu.com
+  pronoun: she/they
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "M 11:00 am - 12:00 pm in person and online"
+  zoom: "https://uci.zoom.us/j/97303385378?jst=3"
+  office : "DBH 2204"
+  
+  
+ta1: 
+  name: Zhengtao Gui (Lec A)
+  email: "zhengtag@uci.edu@uci.edu"
+  pronoun: "??"
+  photo: "img/ta1.jpeg"
+  audio: "ta1.mp3"
+  office-hours: "TBD in person and online"
+  office: "DBH TBD"
+  zoom: "TBD"
+  
+  
+ta2: 
+  name: Yuanpeng (Tim) Li (Lec B)
+  email: "yuanpl2@uci.edu"
+  pronoun: "??"
+  photo: "img/ta2.jpeg"
+  audio: "ta2.mp3"
+  office-hours: "TBD in person and online"
+  office: "DBH TBD"
+  zoom: "TBD"
+  
+ta3: 
+  name: John Lain 
+  email: "jhlain@uci.edu"
+  pronoun: "??"
+  photo: "img/ta3.jpeg"
+  audio: "ta3.mp3"
+
+calendar:
+  finala: on Wed, Mar 18 at 8:00-10:00am
+  finalb: on Mon, Mar 16 at 1:30-3:30pm	
+  midterm: on Feb 4 during lecture time
+  homework: 9:30 am on Mondays

@@ -1,0 +1,30 @@
+It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow. 
+
+### In-Class Quizzes
+
+In-Class quizzes are an opportunity to practice as you are learning during the lectures.
+The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc.
+You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point.
+If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct.
+Note that during week zero we will have online quizzes which will be graded for correctness.
+
+### Homework Assignments
+
+After weekly topics are completed you will be assigned a homework on these topics. You will have until {{< var calendar.homework >}} to finish the homework assignments. 
+For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See @sec-ai.
+
+TLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.
+
+### Midterm Exam
+
+Midterm exam will be held in-person, in-class {{< var calendar.midterm >}}. 
+You will work individually on the exam.
+It will be a closed-book exam but you will be given equations.
+You will not need a calculator and you will not be allowed to use one.
+
+### Final Exam
+
+Final exam will be held in-person, {{< var calendar.finala >}} for Lecture A and {{< var calendar.finalb >}} for Lecture B.
+You will work individually on the exam.
+It will be a closed-book exam but you will be given equations.
+You will not need a calculator and you will not be allowed to use one.

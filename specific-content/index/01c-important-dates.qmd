@@ -1,0 +1,10 @@
+## Important Dates
+
+**Midterm exam** {{< var calendar.midterm >}} in class
+
+
+**Final exam** 
+
+{{< var calendar.finala >}} for Lecture A in the same classroom (ICS 174) 
+
+{{< var calendar.finalb >}} for Lecture B in the same classroom (ICS 174)
