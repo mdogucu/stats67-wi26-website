@@ -92,17 +92,3 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
 ```
 
 
-```{r}
-#| echo: false
-#| message: false
-readr::read_csv(here::here("specific-content/schedule.csv")) |> 
-  mutate(
-    reading = if_else(is.na(reading), 
-                      paste0(fontawesome::fa("book", fill = "#e6ddd1")),
-  paste0(
-    "[", fontawesome::fa("book"), "]",
-    "(specific-content/readings/", reading, ")"
-  ))) |> 
-  knitr::kable() 
-```
-
