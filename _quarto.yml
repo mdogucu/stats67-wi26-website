@@ -17,7 +17,7 @@ website:
         text: "{{< fa chalkboard-teacher >}} People"
       - href: "policies.qmd"
         text: "{{< fa gavel >}} Policies"
-      - href: "policies.qmd"
+      - href: "schedule.qmd"
         text: "{{< fa calendar >}} Schedule"
       - href: "tools.qmd"
         text: "{{< fa toolbox >}} Tools"

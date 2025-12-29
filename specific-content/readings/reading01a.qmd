@@ -1,4 +1,8 @@
 ---
-title: "placeholder"
+title: "Reading for Lecture 1a"
 ---
 
+Read from OpenIntro 
+
+- [ ] Section 1.2
+- [ ] [Explainer: What is Statistics?](https://www.snexplores.org/article/explainer-what-is-statistics)

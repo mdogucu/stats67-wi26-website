@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{{&lt; var course.site &gt;}}/schedule.html</loc>
-    <lastmod>2025-12-28T01:09:02.533Z</lastmod>
+    <lastmod>2025-12-28T01:53:10.679Z</lastmod>
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/specific-content/index/01a-course-description.html</loc>
@@ -14,15 +14,19 @@
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/specific-content/readings/reading01a.html</loc>
-    <lastmod>2025-12-27T23:57:17.187Z</lastmod>
+    <lastmod>2025-12-29T16:02:14.853Z</lastmod>
   </url>
   <url>
-    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03a-assessment.html</loc>
-    <lastmod>2025-12-27T22:51:13.306Z</lastmod>
+    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03b-weights.html</loc>
+    <lastmod>2025-10-15T01:33:10.911Z</lastmod>
   </url>
   <url>
-    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03c-late-policy.html</loc>
-    <lastmod>2025-12-27T22:17:20.792Z</lastmod>
+    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03d-regrade.html</loc>
+    <lastmod>2025-10-15T01:33:10.911Z</lastmod>
+  </url>
+  <url>
+    <loc>{{&lt; var course.site &gt;}}/specific-content/assessment/assessment0a.html</loc>
+    <lastmod>2025-12-29T16:11:52.399Z</lastmod>
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/policies.html</loc>
@@ -41,12 +45,16 @@
     <lastmod>2025-10-15T01:33:10.909Z</lastmod>
   </url>
   <url>
-    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03d-regrade.html</loc>
-    <lastmod>2025-10-15T01:33:10.911Z</lastmod>
+    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03c-late-policy.html</loc>
+    <lastmod>2025-12-27T22:17:20.792Z</lastmod>
   </url>
   <url>
-    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03b-weights.html</loc>
-    <lastmod>2025-10-15T01:33:10.911Z</lastmod>
+    <loc>{{&lt; var course.site &gt;}}/specific-content/policies/03a-assessment.html</loc>
+    <lastmod>2025-12-27T22:51:13.306Z</lastmod>
+  </url>
+  <url>
+    <loc>{{&lt; var course.site &gt;}}/specific-content/readings/reading01b.html</loc>
+    <lastmod>2025-12-29T16:00:32.974Z</lastmod>
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/specific-content/index/01b-course-goals.html</loc>
