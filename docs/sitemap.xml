@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{{&lt; var course.site &gt;}}/schedule.html</loc>
-    <lastmod>2025-12-29T16:30:47.275Z</lastmod>
+    <lastmod>2025-12-29T16:45:42.451Z</lastmod>
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/specific-content/index/01a-course-description.html</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/specific-content/assessment/assessment00a.html</loc>
-    <lastmod>2025-12-29T16:31:29.616Z</lastmod>
+    <lastmod>2025-12-29T17:37:42.021Z</lastmod>
   </url>
   <url>
     <loc>{{&lt; var course.site &gt;}}/policies.html</loc>
