@@ -11,7 +11,7 @@ library(tidyverse)
 ## Course specifics
 
 slides_repo <- "https://mdogucu.github.io/stats67-wi26-slides/"
-code_repo <- "https://mdogucu.github.io/stats67-wi26-starter-code/"
+code_repo <- "https://mdogucu.github.io/stats67-wi26-starter-codes/"
 gradescope <- "https://www.gradescope.com/courses/1205064"
 ```
 
