@@ -30,10 +30,10 @@ instructor:
 ta1: 
   name: Zhengtao Gui (Lec A)
   email: "zhengtag@uci.edu@uci.edu"
-  pronoun: "??"
+  pronoun: "he/him"
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
-  office-hours: "TBD in person and online"
+  office-hours: "Tu 1 - 2 pm and W 2:30 - 3:30 pm in person and online"
   office: "DBH TBD"
   zoom: "TBD"
   
@@ -51,7 +51,7 @@ ta2:
 ta3: 
   name: John Lain 
   email: "jhlain@uci.edu"
-  pronoun: "??"
+  pronoun: "he/him"
   photo: "img/ta3.jpeg"
   audio: "ta3.mp3"
 
