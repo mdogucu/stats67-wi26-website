@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "{{< var course.code >}}"
+  title: "STATS 67"
   search: true
   site-url: "{{< var course.site >}}"
   navbar:
