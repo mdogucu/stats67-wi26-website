@@ -1,6 +1,10 @@
 ﻿week,date,session,topic,reading,slides,code,assessment,other
 0,2-Jan,  ,Getting Ready for STATS 67,,,,assessment00a.qmd,
 1,5-Jan,Lec,Introduction to STATS 67 and Data,reading01a.qmd,week01/1a-intro-data.html,1a-intro-data.qmd,,
-1,7-Jan,Lec,Summarizing Data,,week01/1b-summarize-data.html,1b-summarize-data.qmd,,
-1,7-Jan,Dis,Introduction to Data and Summarizing Data,reading01b.qmd,,1d-summarize-data.qmd,,
+1,7-Jan,Lec,Summarizing Data,reading01b.qmd,week01/1b-summarize-data.html,1b-summarize-data.qmd,,
+1,7-Jan,Dis,Introduction to Data and Summarizing Data,,,1d-summarize-data.qmd,,
 1,9-Jan,Hw,Summarizing Data,,,1h-summarize-data.qmd,7356751,
+2,12-Jan,Lec,Sampling and Study Design,reading02a.qmd,week02/2a-sampling-study-design.html,,,
+2,14-Jan,Lec,Introduction to Probability,reading02b.qmd,week02/2b-intro-probability.html,,,
+2,14-Jan,Dis,,,,,,
+2,16-Jan,Hw,,,,,,
