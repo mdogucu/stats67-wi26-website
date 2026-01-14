@@ -34,8 +34,8 @@ ta1:
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
   office-hours: "Tu 1 - 2 pm and W 2:30 - 3:30 pm in person and online"
-  office: "DBH TBD"
-  zoom: "TBD"
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/93634467891"
   
   
 ta2: 
@@ -45,8 +45,8 @@ ta2:
   photo: "img/ta2.jpeg"
   audio: "ta2.mp3"
   office-hours: "Th 12 - 1 pm and F 1 - 2 pm in person and online"
-  office: "DBH TBD"
-  zoom: "TBD"
+  office: "DBH 2013 (on Th) and DBH 2221 on F"
+  zoom: "https://uci.zoom.us/j/91636499499"
   
 ta3: 
   name: John Lain 
