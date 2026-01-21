@@ -1,5 +1,5 @@
 ---
-title: "Reading for Lecture 1b"
+title: "Reading for Lecture 2b"
 ---
 
 Read from OpenIntro 

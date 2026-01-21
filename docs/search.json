@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "STATS 67",
     "section": "",
-    "text": "week\ndate\nsession\ntopic\nreading\nslides\ncode\nassessment\nother\n\n\n\n\n0\n2-Jan\n\nGetting Ready for STATS 67\n\n\n\n\n\n\n\n1\n5-Jan\nLec\nIntroduction to STATS 67 and Data\n\n\n\n\n\n\n\n1\n7-Jan\nLec\nSummarizing Data\n\n\n\n\n\n\n\n1\n7-Jan\nDis\nIntroduction to Data and Summarizing Data\n\n\n\n\n\n\n\n1\n9-Jan\nHw\nSummarizing Data\n\n\n\n\n\n\n\n2\n12-Jan\nLec\nSampling and Study Design\n\n\n\n\n\n\n\n2\n14-Jan\nLec\nIntroduction to Probability\n\n\n\n\n\n\n\n2\n14-Jan\nDis\nSampling, Study Design and Probability\n\n\n\n\n\n\n\n2\n19-Jan\nHw\nSampling, Study Design and Probability\n\n\n\n\n\n\n\n3\n19-Jan\nLec\nNo Class, Martin Luther King, Jr. Day\n\n\n\n\n\n\n\n3\n21-Jan\nLec\nDiscrete Random Variables\n\n\n\n\n\n\n\n3\n21-Jan\n\nDiscrete Random Variables\n\n\n\n\n\n\n\n3\n26-Jan\n\nDiscrete Random Variables"
+    "text": "week\ndate\nsession\ntopic\nreading\nslides\ncode\nassessment\nother\n\n\n\n\n0\n2-Jan\n\nGetting Ready for STATS 67\n\n\n\n\n\n\n\n1\n5-Jan\nLec\nIntroduction to STATS 67 and Data\n\n\n\n\n\n\n\n1\n7-Jan\nLec\nSummarizing Data\n\n\n\n\n\n\n\n1\n7-Jan\nDis\nIntroduction to Data and Summarizing Data\n\n\n\n\n\n\n\n1\n9-Jan\nHw\nSummarizing Data\n\n\n\n\n\n\n\n2\n12-Jan\nLec\nSampling and Study Design\n\n\n\n\n\n\n\n2\n14-Jan\nLec\nIntroduction to Probability\n\n\n\n\n\n\n\n2\n14-Jan\nDis\nSampling, Study Design and Probability\n\n\n\n\n\n\n\n2\n19-Jan\nHw\nSampling, Study Design and Probability\n\n\n\n\n\n\n\n3\n19-Jan\nLec\nNo Class, Martin Luther King, Jr. Day\n\n\n\n\n\n\n\n3\n21-Jan\nLec\nDiscrete Random Variables\n\n\n\n\n\n\n\n3\n21-Jan\nDis\nDiscrete Random Variables\n\n\n\n\n\n\n\n3\n26-Jan\nHw\nDiscrete Random Variables\n\n\n\n\n\n\n\n4\n26-Jan\nLec\nDiscrete Distributions\n\n\n\n\n\n\n\n4\n28-Jan\nLec\nContinuous Random Variables\n\n\n\n\n\n\n\n4\n28-Jan\nDis\nDiscrete Distributions and Continuous Random Variables\n\n\n\n\n\n\n\n4\n2-Feb\nHw\nDiscrete Distributions and Continuous Random Variables\n\n\n\n\n\n\n\n5\n2-Feb\nLec\nContinuous Distributions\n\n\n\n\n\n\n\n5\n4-Feb\nLec\nMidterm (in class)\n\n\n\n\n\n\n\n5\n4-Feb\nDis\nMidterm solutions"
   },
   {
     "objectID": "specific-content/index/01a-course-description.html",
@@ -21,11 +21,25 @@
     "text": "Read from OpenIntro\n\nSection 1.2\nExplainer: What is Statistics?"
   },
   {
-    "objectID": "specific-content/readings/reading02b.html",
-    "href": "specific-content/readings/reading02b.html",
-    "title": "Reading for Lecture 1b",
+    "objectID": "specific-content/readings/reading03b.html",
+    "href": "specific-content/readings/reading03b.html",
+    "title": "Reading for Lecture 3b",
     "section": "",
-    "text": "Read from OpenIntro\n\nSection 3.1\nSection 3.2"
+    "text": "Read from OpenIntro\n\nSection 3.4"
+  },
+  {
+    "objectID": "specific-content/readings/reading02a.html",
+    "href": "specific-content/readings/reading02a.html",
+    "title": "Reading for Lecture 2a",
+    "section": "",
+    "text": "Read from OpenIntro\n\nSection 1.1\nSection 1.3\nSection 1.4"
+  },
+  {
+    "objectID": "specific-content/readings/reading04a.html",
+    "href": "specific-content/readings/reading04a.html",
+    "title": "Reading for Lecture 4a",
+    "section": "",
+    "text": "Read from OpenIntro\n\nSection 4.2\nSection 4.3\nSection 4.5"
   },
   {
     "objectID": "specific-content/policies/03b-weights.html",
@@ -189,11 +203,25 @@
     "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are an opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point. If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct. Note that during week zero we will have online quizzes which will be graded for correctness.\n\n\nHomework Assignments\nAfter weekly topics are completed you will be assigned a homework on these topics. You will have until 9:30 am on Mondays to finish the homework assignments. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See ?@sec-ai.\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Feb 4 during lecture time. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and you will not be allowed to use one.\n\n\nFinal Exam\nFinal exam will be held in-person, on Wed, Mar 18 at 8:00-10:00am for Lecture A and on Mon, Mar 16 at 1:30-3:30pm for Lecture B. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and you will not be allowed to use one."
   },
   {
-    "objectID": "specific-content/readings/reading02a.html",
-    "href": "specific-content/readings/reading02a.html",
-    "title": "Reading for Lecture 1b",
+    "objectID": "specific-content/readings/reading04b.html",
+    "href": "specific-content/readings/reading04b.html",
+    "title": "Reading for Lecture 4b",
     "section": "",
-    "text": "Read from OpenIntro\n\nSection 1.1\nSection 1.3\nSection 1.4"
+    "text": "Read from OpenIntro\n\nSection 3.5"
+  },
+  {
+    "objectID": "specific-content/readings/reading05a.html",
+    "href": "specific-content/readings/reading05a.html",
+    "title": "Reading for Lecture 4b",
+    "section": "",
+    "text": "Read from OpenIntro\n\nSection 4.1"
+  },
+  {
+    "objectID": "specific-content/readings/reading02b.html",
+    "href": "specific-content/readings/reading02b.html",
+    "title": "Reading for Lecture 2b",
+    "section": "",
+    "text": "Read from OpenIntro\n\nSection 3.1\nSection 3.2"
   },
   {
     "objectID": "specific-content/readings/reading01b.html",
